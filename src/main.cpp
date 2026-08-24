@@ -1,5 +1,5 @@
-#include "BOARD.h"
-#include "BUTTON.h"
+#include "../include/BOARD.h"
+#include "../include/BUTTON.h"
 
 int main()
 {

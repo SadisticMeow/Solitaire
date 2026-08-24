@@ -1,4 +1,4 @@
-#include "ALTERNATE_CELL.h"
+#include "../include/ALTERNATE_CELL.h"
 
 AlternateCell::AlternateCell() : Cell() {}
 

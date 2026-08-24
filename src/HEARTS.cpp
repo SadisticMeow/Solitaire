@@ -1,4 +1,4 @@
-#include "HEARTS.h"
+#include "../include/HEARTS.h"
 
 Hearts::Hearts() : RedCard() {}
 

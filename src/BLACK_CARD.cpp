@@ -1,4 +1,4 @@
-#include "BLACK_CARD.h"
+#include "../include/BLACK_CARD.h"
 
 BlackCard::BlackCard() : Card() {}
 

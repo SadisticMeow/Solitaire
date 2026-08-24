@@ -1,4 +1,4 @@
-#include "BUTTON.h"
+#include "../include/BUTTON.h"
 
 Button::Button() : hitBox(), text(), textSize() {}
 

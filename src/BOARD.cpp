@@ -1,4 +1,4 @@
-#include "BOARD.h"
+#include "../include/BOARD.h"
 
 Board* Board::instance = nullptr;
 

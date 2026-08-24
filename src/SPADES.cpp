@@ -1,4 +1,4 @@
-#include "SPADES.h"
+#include "../include/SPADES.h"
 
 Spades::Spades(): BlackCard() {}
 

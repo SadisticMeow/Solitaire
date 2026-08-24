@@ -1,4 +1,4 @@
-#include "DIAMONDS.h"
+#include "../include/DIAMONDS.h"
 
 Diamonds::Diamonds() : RedCard() {}
 

@@ -1,4 +1,4 @@
-#include "INPUT_RECORDER.h"
+#include "../include/INPUT_RECORDER.h"
 
 InputRecorder::InputRecorder() : cardNum(-1), cellNum(-1), divNum(-1), isDataComplete(0), card(nullptr), cell(nullptr) {}
 

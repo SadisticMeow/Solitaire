@@ -1,4 +1,4 @@
-#include "CARD.h"
+#include "../include/CARD.h"
 
 Card::Card() : value(0), name('\0'), flipped(0), front(), face(), xy{ 0,0 }, 
 hitBox{ xy.x,xy.y,CARD_WIDTH,CARD_HEIGHT } {}

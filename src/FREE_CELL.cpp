@@ -1,4 +1,4 @@
-#include "FREE_CELL.h"
+#include "../include/FREE_CELL.h"
 
 FreeCell::FreeCell() : Cell() {}
 

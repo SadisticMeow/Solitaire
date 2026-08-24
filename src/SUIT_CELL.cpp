@@ -1,4 +1,4 @@
-#include "SUIT_CELL.h"
+#include "../include/SUIT_CELL.h"
 
 SuitCell::SuitCell() : Cell() , suit('\0') {}
 

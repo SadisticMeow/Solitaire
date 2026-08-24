@@ -1,4 +1,4 @@
-#include "CLUBS.h"
+#include "../include/CLUBS.h"
 
 Clubs::Clubs(): BlackCard() {}
 

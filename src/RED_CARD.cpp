@@ -1,4 +1,4 @@
-#include "RED_CARD.h"
+#include "../include/RED_CARD.h"
 
 RedCard::RedCard(): Card() {}
 

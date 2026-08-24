@@ -1,4 +1,4 @@
-#include "CELL.h"
+#include "../include/CELL.h"
 
 Cell::Cell() : cap(0), num(0), arr(nullptr), face(), xy{ 0,0 }, hitBox{ xy.x,xy.y,CELL_WIDTH,CELL_HEIGHT } {}
 
